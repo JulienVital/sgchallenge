@@ -1,0 +1,6 @@
+vendor
+.phpunit*
+phpunit*
+parse.json
+state.txt
+.vscode

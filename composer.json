@@ -1,0 +1,19 @@
+{
+    "name": "julien/codingame-greencircle",
+    "description": "challenge",
+    "authors": [
+        {
+            "name": "julien",
+            "email": "contact@julien-vital.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "Tests\\": "Tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
